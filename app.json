@@ -1,0 +1,8 @@
+{
+  "name": "hello-simple",
+  "description": "Example Haskell/Simple web application",
+  "repository": "https://github.com/mietek/hello-simple",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/mietek/haskell-on-heroku"
+  }
+}
